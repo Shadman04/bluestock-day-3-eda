@@ -8,5 +8,5 @@
 6. Madhya Pradesh contributes the highest SIP transaction value in the supplied investor sample; see chart 08.
 7. T30 is the most common city-tier label among SIP transaction rows; see chart 09.
 8. Industry folios change from 13.26 crore at the first available month to 26.12 crore at the latest available month; see chart 10.
-9. Banking is the largest aggregate sector by summed portfolio weight in the supplied holdings file; see chart 12.
-10. The supplied data supports a further descriptive comparison; review the relevant chart and add a source-grounded interpretation before submission.
+9. Banking has the largest summed reported holding weight across the supplied scheme records; this is not an AUM-weighted industry allocation; see chart 12.
+10. ABSL Small Cap Fund - Regular - Growth has the highest reported 5-year return (23.80%) among the supplied scheme-performance records; see chart 13.
